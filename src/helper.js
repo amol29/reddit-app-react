@@ -1,0 +1,1 @@
+export const subredditList = ["alternativeart", "pics", "gifs", "adviceanimals", "cats", "images", "photoshopbattles", "hmmm", "all", "aww"]
